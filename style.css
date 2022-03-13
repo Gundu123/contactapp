@@ -1,0 +1,63 @@
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: medium;
+    margin: 0px;
+}
+h1{
+
+    font-size: 20px; 
+    border-top: 50px;
+    padding: 50px;
+}
+form input{
+    border: 10px;
+    padding: 10px 80px;
+
+}
+.bhav{
+    border: 10px;
+    padding-right: 290px;
+    margin: 10px;
+}
+.gun{
+    border: 0px;
+    padding-right: 270px;
+    margin: 10px;
+}
+button{
+    margin: 15px;
+    padding: 10px 120px; 
+    background-color: blue;
+}
+a:link{
+    text-decoration: none;
+}
+.chat{
+    margin: 10px;
+    padding-left: 200px;
+}
+.fun{
+    padding-right: 270px;
+    font-size: 20px;
+    border:10px;
+}
+
+.mmm{
+    border: 10px;
+    margin: 20px;
+    font-size: 30px;
+    
+}
+h2{
+    margin: 70px;
+}
+form input{
+    margin: 10px;
+    padding: 6px 47px;
+}
+button{
+    background-color: blue;
+    text-align: left;
+    
+}
